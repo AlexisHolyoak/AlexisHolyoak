@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Alexis, I am a 24 years old man from Peru.
+My name is Alexis, I am a 25 years old man from Peru.
 - 🔭 I’m currently working for ABS
 - 🌱 I’m currently learning Virtual Reality Development
 - 👯 I’m looking to collaborate on Java, Angular or VR
